@@ -1,15 +1,7 @@
-## Api para buscar preço das Criptomoedas
-## Bitcoin(BTC) / Ethereum(ETH) / Dogecoin (DOGE)
+# Bot no Telegram que informa valores das Criptomoedas!
+#### Esse projeto foi criado com intuito de criar um Bot no Telegram que pudesse me fornecer os valores atuais das criptomoedas que eu queira;
+#### Após muita pesquisa e ideias consegui concluir o projeto inicial;
+#### Futuramente pode ser adicionado mais funcionalidades, como maiores variações entre as moedas...;
 
-### pip install requests
-
-
-## Buscando informação atráves da Economia (Awesomeapi)
-
-## Buscando preços de cada moeda definida.
-
-## Definindo o tempo que será novamente atualizada -> time.sleep(60)
-
-# Criar Bot - Telegram :
-### Desenvolvimento do código -> pip install pyTelegramBotAPI
-### #
+## Gravei um video para expor o resultado do trabalho desenvolvido!
+## Video:
