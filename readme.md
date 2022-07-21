@@ -3,5 +3,5 @@
 #### Após muita pesquisa e ideias consegui concluir o projeto inicial;
 #### Futuramente pode ser adicionado mais funcionalidades, como maiores variações entre as moedas...;
 
-## Gravei um video para expor o resultado do trabalho desenvolvido!
-## Video:
+### Gravei um video para expor o resultado do trabalho desenvolvido!
+### Video: https://youtu.be/EPgTSTt3M1s
